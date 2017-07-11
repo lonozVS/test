@@ -1,7 +1,4 @@
 asdas
-<<<<<<< HEAD
+
 asdas
 ass
-=======
->>>>>>> d7f70e096f8259c605c1be23acd702355d19b023
-asdas
